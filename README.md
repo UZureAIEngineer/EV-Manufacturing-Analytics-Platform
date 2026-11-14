@@ -363,6 +363,6 @@ Relevant for:
 
 **Umesh Manik Zure**
 
-Senior Business Analyst | Data Analytics | Banking Analytics | Retail Analytics | Automotive Analytics | Data Transformation
+Senior Data Analytics Professional | Senior Business Analyst | Data Analytics | Banking Analytics | Retail Analytics | Automotive Analytics | Data Transformation
 
 GitHub: https://github.com/UZureAIEngineer
